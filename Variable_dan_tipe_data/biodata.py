@@ -1,0 +1,5 @@
+print("--- Biodata ----")
+print("Nama Lengkap: Muhammad Afif Nur Azizi")
+print("Alamat : Purbalingga Jawa tengah")
+print("Tinggi Badan : 163")
+print('-----------------')
